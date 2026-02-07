@@ -1,0 +1,2 @@
+# 强制所有文本文件使用LF（GitHub标准）
+* text eol=lf
