@@ -1,0 +1,225 @@
+{
+  "workspaces": {
+    "初始的工作区布局": {
+      "main": {
+        "id": "825646f20ab664b8",
+        "type": "split",
+        "children": [
+          {
+            "id": "3f334360ab963d77",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "de554090120191f3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00/00.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "00"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da26105950a023a6",
+        "type": "split",
+        "children": [],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "04b1a2d8b77b4535",
+        "type": "split",
+        "children": [
+          {
+            "id": "e3cacd24b4b6f945",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6bc006f2977c0e40",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo List"
+                }
+              },
+              {
+                "id": "43e35196ca29aafa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "0f72cf6e9127757a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "1f7b7a4cfaa2beb9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "3a2370d31deb3c2a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6cd9c71628bed117",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7cb305399712b9be",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00/00.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "00 的反向链接列表"
+                }
+              },
+              {
+                "id": "8663b661b9daf857",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "00/00.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "04-001-01-04-01.json 的出链列表"
+                }
+              },
+              {
+                "id": "4a8d876e30533c7e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "c812d8126e85a272",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              },
+              {
+                "id": "797834df09829351",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "4df61f327b562218",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {},
+                  "icon": "history",
+                  "title": "History"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-kanban:创建新看板": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "command-palette:打开命令面板": false,
+          "templater-obsidian:Templater": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "obsidian-git:Open Git source control": false,
+          "ribbon-divider:ribbon-divider-51260dc2-316f-468f-8593-676a8c553aac": false,
+          "pinned-notes:shaopeng": false,
+          "pinned-notes:xinxing": false,
+          "pinned-notes:literature notes": false,
+          "pinned-notes:fleeting notes": false,
+          "pinned-notes:reviews": false,
+          "ribbon-divider:ribbon-divider-50d76671-d107-4c22-9446-9a9e6cddd070": false,
+          "webviewer-bookmarks:Open shaopengyedev": false,
+          "webviewer-bookmarks:Open gemini": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "de554090120191f3",
+      "mtime": "2026-02-08T23:32:41+08:00"
+    }
+  },
+  "active": "初始的工作区布局"
+}
