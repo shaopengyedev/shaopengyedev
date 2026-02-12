@@ -1,5 +1,5 @@
 {
-  "commitMessage": "type(scope): message",
+  "commitMessage": "feat(scope): message",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",

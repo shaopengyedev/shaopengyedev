@@ -7,6 +7,28 @@
 .cm-hmd-internal-link.cm-link-alias {
     color: var(--text-normal) !important;
 }
+/* --- 编辑视图 wiki链接 粗体 --- */
+/* 管道 */
+.cm-strong.cm-hmd-internal-link.cm-link-alias-pipe,
+/* 文件名 */
+.cm-strong.cm-hmd-internal-link.cm-link-has-alias,
+/* 别名 */
+.cm-strong.cm-hmd-internal-link.cm-link-alias {
+    color: var(--bold-color) !important;
+    font-weight: bold;
+}
+/* --- 阅读视图 wiki链接 粗体 --- */
+strong .internal-link {
+    color: var(--bold-color) !important;
+}
+/* --- 编辑视图 wiki链接 斜体 --- */
+.cm-em.cm-hmd-internal-link.cm-link-alias {
+    color: var(--italic-color) !important;
+}
+/* --- 阅读视图 wiki链接 斜体 --- */
+em .internal-link {
+    color: var(--italic-color) !important;
+}
 /* --- 编辑视图 markdown链接 方括号 --- */
 .cm-formatting.cm-formatting-link.cm-link {
     color: var(--text-faint) !important;
