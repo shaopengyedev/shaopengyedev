@@ -1,0 +1,20 @@
+{
+  "bookmarks": [
+    {
+      "url": "https://github.com/shaopengyedev/shaopengyedev",
+      "title": "shaopengyedev",
+      "ribbon": true,
+      "command": false,
+      "openMode": "current",
+      "lucide": "github"
+    },
+    {
+      "url": "https://gemini.google.com/app",
+      "title": "gemini",
+      "ribbon": true,
+      "command": false,
+      "openMode": "current",
+      "lucide": "bot"
+    }
+  ]
+}

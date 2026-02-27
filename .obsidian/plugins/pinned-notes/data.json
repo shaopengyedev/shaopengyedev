@@ -1,0 +1,34 @@
+{
+  "pinnedNotes": [
+    {
+      "id": "46af2bb9-99fe-4fd9-9016-8aa7087a0e49",
+      "icon": "home",
+      "path": "00/00",
+      "title": "shaopeng"
+    },
+    {
+      "id": "1c61450f-bf8a-4115-b768-e0921fbc030e",
+      "icon": "list-todo",
+      "path": "00/00-01/00-01",
+      "title": "xinxing"
+    },
+    {
+      "id": "3165f135-034f-4e8d-bb19-15e7bac8ad1b",
+      "icon": "library-big",
+      "path": "00/00-00/00-00-02/00-00-02",
+      "title": "literature notes"
+    },
+    {
+      "id": "e2d588cf-427f-4e08-8638-dd034f4a46c5",
+      "icon": "notebook-pen",
+      "path": "00/00-00/00-00-03/00-00-03",
+      "title": "fleeting notes"
+    },
+    {
+      "id": "46801c38-96a3-4db6-8325-50ff2a408ca0",
+      "icon": "file-badge",
+      "path": "00/00-06/00-06",
+      "title": "reviews"
+    }
+  ]
+}
